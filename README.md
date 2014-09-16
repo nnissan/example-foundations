@@ -1,4 +1,4 @@
-example-foundations
-===================
+# Example-foundations class
+##test 
 
 sample repository
